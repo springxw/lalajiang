@@ -14,7 +14,7 @@ spring:
     #content-type: text/html
     mode: HTML5
 
-  #mvc.static-path-pattern: /static/**
+  mvc.static-path-pattern: /static/**
 
 server:
   port: 9000

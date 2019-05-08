@@ -16,7 +16,8 @@ import javax.servlet.http.HttpSession;
 @Controller
 @RequestMapping("/user")
 public class UserController {
-    private static Cookie cookie;
+    //private static Cookie cookie;
+
     @Resource
     private UserService userService;
 
@@ -37,6 +38,7 @@ public class UserController {
             //写入session
             HttpSession sessionName = request.getSession();
             sessionName.setAttribute("userName", name);
+            show();
             return "欢迎登陆";
         } else {
             model.addAttribute("info", "登录失败");

@@ -8,8 +8,7 @@ public class UserService {
     public Boolean login(String name, String pwd) {
         if ("admin".equals(name) && "admin110".equals(pwd)) {
             return true;
-        } else {
-            return false;
         }
+        return false;
     }
 }
