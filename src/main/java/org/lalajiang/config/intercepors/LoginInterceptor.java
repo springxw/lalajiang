@@ -11,6 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 @Slf4j
+
 @Component
 public class LoginInterceptor implements HandlerInterceptor {
 
@@ -20,7 +21,7 @@ public class LoginInterceptor implements HandlerInterceptor {
         //每一个项目对于登陆的实现逻辑都有所区别，我这里使用最简单的session来验证登陆。
         HttpSession sessionName = request.getSession();
         String userName = String.valueOf(sessionName.getAttribute("userName"));
-        if ("admin".equals(userName)) {
+        if ("xiaohu".equals(userName)) {
             return true;
         } else
             response.sendRedirect("/login");

@@ -1,0 +1,24 @@
+
+ujavascript:S2703"XAdd the "let", "const" or "var" keyword to this declaration of "fb" to make it explicit.(İ¦ í
+njavascript:S2589¦"LRefactor this code so that this expression does not always evaluate to true.(®«Ñ ùÿÿÿÿ
+gjavascript:S2814Ï"JRename "cssCount" as this name is already used in declaration at line 203.(‚ ­ÿ
+ijavascript:S2589€"LRefactor this code so that this expression does not always evaluate to true.(¨ŠŸ€
+\javascript:S1854“":Remove this useless assignment to local variable "loading"(€Ò°¶ÿÿÿÿÿ
+Mjavascript:S1862Û"+This branch duplicates the one on line 473.(ÃˆÚ÷üÿÿÿÿ
+njavascript:S2589ü"LRefactor this code so that this expression does not always evaluate to true.(ÚÌîÊıÿÿÿÿ
+ljavascript:S2814Ğ"JRename "cssShare" as this name is already used in declaration at line 204.(Ø»ËÊùÿÿÿÿ
+>javascript:S1116ö"Remove this empty statement.(ôŸìúÿÿÿÿ
+\javascript:S1854§":Remove this useless assignment to local variable "loading"(€Ò°¶ÿÿÿÿÿ
+yjavascript:S2703ó"WAdd the "let", "const" or "var" keyword to this declaration of "e" to make it explicit.(ï‘¢ğüÿÿÿÿ
+\javascript:S1854":Remove this useless assignment to local variable "loading"(€Ò°¶ÿÿÿÿÿ
+bjavascript:S2814Î"ERename "css" as this name is already used in declaration at line 202.(±ÍÛª
+Mjavascript:UnusedVariableÅ"'Remove unused function 'LinkedInShare'.(ÄèµÚ
+ujavascript:S2703°"XAdd the "let", "const" or "var" keyword to this declaration of "tw" to make it explicit.(Œ‚‡
+]javascript:S2137	"ADo not use "undefined" to declare a parameter - use another name.(ÿ¨±Ö
+\javascript:S1854å":Remove this useless assignment to local variable "loading"(€Ò°¶ÿÿÿÿÿ
+ijavascript:S2589ä"LRefactor this code so that this expression does not always evaluate to true.(Ó§ñÍ
+njavascript:S2589¼"LRefactor this code so that this expression does not always evaluate to true.(Úşú”ıÿÿÿÿ
+\javascript:S1854½":Remove this useless assignment to local variable "loading"(€Ò°¶ÿÿÿÿÿ
+\javascript:S1854ı":Remove this useless assignment to local variable "loading"(€Ò°¶ÿÿÿÿÿ
+yjavascript:S2703î"WAdd the "let", "const" or "var" keyword to this declaration of "s" to make it explicit.(½’°Ûıÿÿÿÿ
+njavascript:S2589’"LRefactor this code so that this expression does not always evaluate to true.(©´¿µüÿÿÿÿ
